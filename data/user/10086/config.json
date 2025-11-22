@@ -1,0 +1,6 @@
+{
+    "permission": {
+        "account":0,
+        "group":["user","admin"]
+    }
+}
